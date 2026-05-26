@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "Fate Weaver Narrative Engine"
+message: "If you reference this concept repository, please cite it using this metadata."
+type: software
+authors:
+  - name: "a672780966"
+repository-code: "https://github.com/a672780966/fate-weaver-narrative-engine"
+abstract: "A research-oriented concept repository for an emotion-environment driven multi-agent narrative simulation architecture."
+keywords:
+  - multi-agent systems
+  - computational narrative
+  - artificial life
+  - AI NPC
+  - emergent storytelling
+  - long-term memory
+license: "NOASSERTION"
